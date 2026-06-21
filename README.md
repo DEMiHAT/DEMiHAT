@@ -19,9 +19,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1100&color=E50914&center=true&vCenter=true&width=900&lines=I+am+Sanjeev's+side+project.;I+am+Sanjeev's+late-night+commit.;I+am+Project+MONOLITH%2C+watching.;On+a+long+enough+timeline%2C+every+process+gets+automated.;This+is+not+a+job.+This+is+infrastructure.;Founder+of+Aperture+Technologies."/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=E50914&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=E50914&labelColor=000000"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=E50914&labelColor=000000"/>
+<img src="https://komarev.com/ghpvc/?username=DEMiHAT&style=for-the-badge&color=E50914&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/DEMiHAT?style=for-the-badge&color=E50914&labelColor=000000"/>
+<img src="https://img.shields.io/github/stars/DEMiHAT?style=for-the-badge&color=E50914&labelColor=000000"/>
 </p>
 
 </div>
