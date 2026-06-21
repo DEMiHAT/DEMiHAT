@@ -1,228 +1,236 @@
 <div align="center">
 
-# 👋 Hey, I'm Sanjeev Sriram
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A0A0A,30:0F172A,60:1E293B,100:0EA5E9&text=SANJEEV%20SRIRAM&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Founder%20•%20Systems%20Builder%20•%20AI%20Engineer&descAlignY=60"/>
+
+# ⚡ SANJEEV SRIRAM
 
 ### Founder @ Aperture Technologies
 
 Building AI Systems • Business Software • Digital Infrastructure
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Founder+of+Aperture+Technologies;Building+AI-Powered+Business+Systems;Full+Stack+Developer;Computer+Vision+%26+Automation+Engineer;Turning+Ideas+Into+Products;Student+%7C+Builder+%7C+Entrepreneur" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=00C2FF&center=true&vCenter=true&width=1000&lines=Founder+of+Aperture+Technologies;Building+Project+MONOLITH;Designing+Business+Operating+Systems;AI+Automation+Architect;Computer+Vision+Engineer;Turning+Ideas+Into+Infrastructure;Building+The+Future+One+System+At+A+Time"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=0ea5e9"/>
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🧠 Identity
 
-```yaml
-name: Sanjeev Sriram
+```bash
+sanjeev@aperture:~$
 
-role: Founder & Software Engineer
+Name        : Sanjeev Sriram
 
-company: Aperture Technologies
+Role        : Founder & Engineer
 
-education:
-  college: Sri Venkateswara College of Engineering
-  degree: B.Tech Information Technology
+Company     : Aperture Technologies
 
-interests:
-  - Artificial Intelligence
-  - Computer Vision
-  - SaaS Products
-  - Business Automation
-  - Full Stack Development
-  - Startup Building
-  - Systems Design
+Education   : B.Tech Information Technology
 
-currently_building:
-  - Aperture Technologies
-  - Project MONOLITH
-  - AI Business Automation Systems
-  - Digital Transformation Platforms
+Focus Areas :
 
-mission:
-  Build software that transforms how organizations operate.
+  → Artificial Intelligence
+  → Computer Vision
+  → Business Automation
+  → SaaS Platforms
+  → System Design
+  → Digital Infrastructure
+
+Mission :
+
+  Build systems that create leverage.
 ```
 
 ---
 
-# 🏢 Aperture Technologies
+# 🏢 APERTURE TECHNOLOGIES
 
-We help businesses and institutions grow through:
+A student-led technology company focused on helping organizations operate smarter through software, automation, and artificial intelligence.
 
-- AI Automation
-- Custom Software Development
-- Mobile Applications
-- Business Intelligence Dashboards
-- Operational Analytics
-- Workflow Optimization
-- Digital Transformation
+### Core Capabilities
 
----
+◉ AI Automation
 
-# 🛰️ What I'm Building
+◉ Custom Software Development
 
-### Project MONOLITH
+◉ Enterprise Dashboards
 
-AI-Powered CCTV Analytics & Operational Intelligence Platform
+◉ Operational Intelligence
 
-- Employee Tracking
-- Behavioral Analytics
-- Camera Health Monitoring
-- Dwell Time Analysis
-- Automated Reports
-- Operational Insights
+◉ Mobile Applications
 
----
+◉ Digital Transformation
 
-### AI Business Automation Suite
+◉ Workflow Automation
 
-Custom AI systems designed to improve efficiency.
+◉ Computer Vision Systems
 
-- AI Copilots
-- Workflow Automation
-- Intelligent Dashboards
-- Knowledge Systems
-- Business Analytics
-- Document Intelligence
+◉ Business Intelligence
+
+◉ Internal Platforms
 
 ---
 
-### Digital Infrastructure
+# 🛰️ PROJECT MONOLITH
 
-Building software that powers organizations.
+Transforming CCTV infrastructure into operational intelligence.
 
-- Internal Portals
-- CRM Systems
-- Business Dashboards
-- Commerce Platforms
-- Operational Platforms
-- Enterprise Web Applications
+### Features
+
+◉ Employee Recognition
+
+◉ Workforce Visibility
+
+◉ Movement Analytics
+
+◉ Dwell Time Monitoring
+
+◉ Operational Reporting
+
+◉ Camera Health Detection
+
+◉ Automated Insights
+
+◉ Activity Tracking
+
+◉ Behavioral Analytics
 
 ---
 
-# 💻 Technology Arsenal
+# ⚡ CURRENT FOCUS
 
-### Languages
+```yaml
+Building:
+  - Aperture Technologies
+  - Project MONOLITH
+  - AI Business Automation Systems
+  - Enterprise Dashboards
 
-<p>
+Learning:
+  - Advanced System Design
+  - AI Infrastructure
+  - Scalable Architectures
+
+Goal:
+  Build software that solves real-world problems at scale.
+```
+
+---
+
+# 💻 TECHNOLOGY ARSENAL
+
+<div align="center">
+
+## Languages
+
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,c,cpp,java,php,mysql,bash" />
-</p>
 
----
+## Frontend
 
-### Frontend Engineering
-
-<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,flutter" />
-</p>
 
----
+## Backend
 
-### Backend Engineering
-
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,flask" />
-</p>
 
----
+## AI & Data
 
-### AI & Intelligence
-
-<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
 
-**Specializations**
+## Infrastructure
 
-- Large Language Models
-- AI Agents
-- Computer Vision
-- OCR Systems
-- Document Intelligence
-- Workflow Automation
-- Business Intelligence
-- Retrieval Systems
-- Operational Analytics
-- Multi-Agent Architectures
-
----
-
-### Infrastructure & DevOps
-
-<p>
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare,nginx" />
-</p>
 
----
+## Product & Design
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
-</p>
-
----
-
-### Product & Design
-
-<p>
 <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-</p>
+
+</div>
 
 ---
 
-# 🏗️ Flagship Projects
+# 🚀 SPECIALIZATIONS
+
+<table>
+<tr>
+<td>Artificial Intelligence</td>
+<td>Computer Vision</td>
+<td>Workflow Automation</td>
+</tr>
+
+<tr>
+<td>Business Intelligence</td>
+<td>Operational Analytics</td>
+<td>Document Intelligence</td>
+</tr>
+
+<tr>
+<td>AI Agents</td>
+<td>SaaS Development</td>
+<td>System Architecture</td>
+</tr>
+
+<tr>
+<td>Enterprise Platforms</td>
+<td>Digital Transformation</td>
+<td>Product Strategy</td>
+</tr>
+
+</table>
+
+---
+
+# 🏗️ FLAGSHIP PROJECTS
 
 ## 🛰️ Project MONOLITH
 
-AI-Powered CCTV Analytics Platform focused on operational intelligence and workforce visibility.
+AI-powered CCTV analytics and operational intelligence platform.
 
 ---
 
 ## 🏢 Aperture Technologies
 
-AI automation, software development, and digital transformation solutions for modern businesses.
+Building software, automation systems, and digital infrastructure for modern organizations.
 
 ---
 
-## 🤖 AI Business Systems
+## 🤖 AI Business Automation Suite
 
-Custom copilots, workflow engines, analytics platforms, and automation systems.
+Custom copilots, dashboards, workflow engines, and analytics platforms.
 
 ---
 
 ## 📄 Intelligent Document Processing
 
-OCR, NLP, extraction, classification, and automated document workflows.
+OCR, extraction, classification, and workflow automation systems.
 
 ---
 
 ## 🌐 Digital Experience Platforms
 
-Modern web experiences, business websites, internal systems, and commerce platforms.
+High-performance websites, portals, internal systems, and business applications.
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📊 CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -232,58 +240,67 @@ Modern web experiences, business websites, internal systems, and commerce platfo
 
 ---
 
-# 🎯 Current Objectives
+# 🐍 CONTRIBUTION SNAKE
 
-- Scale Aperture Technologies
-- Build Production AI Systems
-- Expand Business Automation Offerings
-- Develop Enterprise Software Solutions
-- Create Long-Term Value Through Technology
-- Work With Ambitious Organizations
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
-# 🧠 Areas of Interest
-
-<table>
-<tr>
-<td>Artificial Intelligence</td>
-<td>Computer Vision</td>
-<td>Automation Systems</td>
-</tr>
-
-<tr>
-<td>Business Intelligence</td>
-<td>Product Strategy</td>
-<td>System Design</td>
-</tr>
-
-<tr>
-<td>SaaS Platforms</td>
-<td>Entrepreneurship</td>
-<td>Digital Transformation</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 📚 Philosophy
+# ⚙️ OPERATING PRINCIPLES
 
-> Build relentlessly.
->
-> Learn continuously.
->
-> Execute consistently.
->
-> Improve endlessly.
+### 01
 
-Ideas are abundant.
+Systems over effort.
 
-Execution creates value.
+### 02
+
+Execution over ideas.
+
+### 03
+
+Speed over perfection.
+
+### 04
+
+Leverage over labor.
+
+### 05
+
+Consistency compounds.
+
+### 06
+
+Reality is the final validator.
 
 ---
 
-# 🌍 Connect
+# 🎯 ROADMAP
+
+```text
+[✓] Build Foundations
+
+[✓] Launch Projects
+
+[✓] Start Aperture Technologies
+
+[ ] Deploy MONOLITH
+
+[ ] Acquire Long-Term Clients
+
+[ ] Build Enterprise AI Products
+
+[ ] Scale Operations
+
+[ ] Create Lasting Impact
+```
+
+---
+
+# 🌍 CONNECT
 
 <div align="center">
 
@@ -292,11 +309,11 @@ Execution creates value.
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://aperturewebs.co.in">
-<img src="https://img.shields.io/badge/Aperture%20Technologies-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Aperture%20Technologies-111827?style=for-the-badge"/>
 </a>
 
 </div>
@@ -305,8 +322,10 @@ Execution creates value.
 
 <div align="center">
 
-### Founder • Builder • Engineer
+## ⚡ Building Systems That Create Leverage
 
-*"Building systems that create leverage."*
+*"If a process happens twice, it deserves a system."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0A0A0A,30:0F172A,60:1E293B,100:0EA5E9"/>
