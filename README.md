@@ -239,8 +239,8 @@ High-performance websites, portals, internal systems, and business applications.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=red&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=red&hide_border=true&background=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEMiHAT&show_icons=true&theme=red&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DEMiHAT&theme=red&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -250,7 +250,7 @@ High-performance websites, portals, internal systems, and business applications.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=E50914&line=E50914&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEMiHAT&theme=react-dark&hide_border=true&bg_color=0D1117&color=E50914&line=E50914&point=ffffff"/>
 
 </div>
 
@@ -260,7 +260,7 @@ High-performance websites, portals, internal systems, and business applications.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/DEMiHAT/DEMiHAT/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
