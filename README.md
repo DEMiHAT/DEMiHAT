@@ -1,64 +1,312 @@
 <div align="center">
-  
-  # ⚡ Sanjeev Sriram
-  ### Systems Architect | Full-Stack Engineer | Algorithmic Optimization
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3578E5&center=true&vCenter=true&width=600&lines=Focus:+High-Performance+Computing;Building:+Distributed+Geospatial+Systems;Optimizing:+O(N)+Algorithms;Stack:+C%2B%2B,+Python,+Flutter,+Systems" alt="Typing SVG" />
-  </a>
+# 👋 Hey, I'm Sanjeev Sriram
 
-  <br/>
+### Founder @ Aperture Technologies
 
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+Building AI Systems • Business Software • Digital Infrastructure
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Founder+of+Aperture+Technologies;Building+AI-Powered+Business+Systems;Full+Stack+Developer;Computer+Vision+%26+Automation+Engineer;Turning+Ideas+Into+Products;Student+%7C+Builder+%7C+Entrepreneur" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 Flagship Engineering (Production & Architecture)
+# 🚀 About Me
 
-These projects represent end-to-end system design, from memory management to cloud deployment.
+```yaml
+name: Sanjeev Sriram
 
-| Project | Architecture & Tech Stack | Engineering Impact |
-| :--- | :--- | :--- |
-| **[Thirty](https://github.com/YOUR_USERNAME/thirty)**<br>_Distributed Geospatial Framework_ | ![Flutter](https://img.shields.io/badge/-Flutter-blue) ![Firebase](https://img.shields.io/badge/-Firebase-orange) ![CMake](https://img.shields.io/badge/-CMake-red) | Engineered a location-bound attendance protocol using **dynamic QR tokenization** and **geofencing**. Implemented cryptographic verification for immutable audit logs. |
-| **[C V-Table Demo](https://github.com/YOUR_USERNAME/c-vtable-demo)**<br>_Polymorphic Runtime Engine_ | ![C](https://img.shields.io/badge/-C-grey) ![Memory](https://img.shields.io/badge/-Memory-orange) ![Low Level](https://img.shields.io/badge/-Assembly-red) | A manual implementation of C++ **Virtual Tables** in pure C. Demonstrates deep understanding of **ABI layout**, function pointers, and dynamic dispatch mechanisms at the compiler level. |
-| **[IMS](https://github.com/YOUR_USERNAME/IMS)**<br>_Enterprise Resource Planning_ | ![Python](https://img.shields.io/badge/-Python-blue) ![Flask](https://img.shields.io/badge/-Flask-black) ![MySQL](https://img.shields.io/badge/-SQL-blue) | Full-stack Insurance Management System. Features rigorous **ACID compliance**, Role-Based Access Control (RBAC), and optimized CRUD operations for high-volume transaction handling. |
+role: Founder & Software Engineer
+
+company: Aperture Technologies
+
+education:
+  college: Sri Venkateswara College of Engineering
+  degree: B.Tech Information Technology
+
+interests:
+  - Artificial Intelligence
+  - Computer Vision
+  - SaaS Products
+  - Business Automation
+  - Full Stack Development
+  - Startup Building
+  - Systems Design
+
+currently_building:
+  - Aperture Technologies
+  - Project MONOLITH
+  - AI Business Automation Systems
+  - Digital Transformation Platforms
+
+mission:
+  Build software that transforms how organizations operate.
+```
 
 ---
 
-## 🧠 Computational Logic & Optimization (DSA)
+# 🏢 Aperture Technologies
 
-A structured approach to solving NP-Hard problems and optimizing Space-Time complexity.
+We help businesses and institutions grow through:
 
-| Repository | Focus Area | Key Concepts Applied |
-| :--- | :--- | :--- |
-| **[leetcode-patterns](https://github.com/YOUR_USERNAME/leetcode-patterns)** | **Algorithm Design** | 150+ Solutions focusing on **Sliding Window**, **DP**, and **Graph Topology**. Includes $T(n)$ analysis and memory optimization notes. |
-| **[data-structures-fundamentals](https://github.com/YOUR_USERNAME/data-structures-fundamentals)** | **ADT Implementation** | Raw C implementations of **Hash Tables**, **Binary Trees**, and **Graphs**. Includes Dijkstra's Algorithm and Stack-based expression parsing. |
-| **[searching-sorting](https://github.com/YOUR_USERNAME/searching-sorting)** | **Performance Tuning** | Comparative analysis of $O(N^2)$ vs $O(N \log N)$ sorting algorithms (Quick/Merge) and Binary Search space reduction techniques. |
+- AI Automation
+- Custom Software Development
+- Mobile Applications
+- Business Intelligence Dashboards
+- Operational Analytics
+- Workflow Optimization
+- Digital Transformation
 
 ---
 
-## 🌐 Web Protocols & Data Persistence
+# 🛰️ What I'm Building
 
-Foundational work in backend logic, database normalization, and client-side scripting.
+### Project MONOLITH
 
-* **[mysql-basics](https://github.com/YOUR_USERNAME/mysql-basics):** Comprehensive documentation of Relational Modeling, Schema Normalization (1NF-3NF), and complex `JOIN`/Constraint logic.
-* **[php-basics](https://github.com/YOUR_USERNAME/php-basics):** Server-side logic implementation covering Session Management, Form Processing, and mathematical computation scripts.
-* **[javascript-basics](https://github.com/YOUR_USERNAME/javascript-basics):** Client-side DOM manipulation, Event Bubbling/Capturing, and asynchronous input handling.
+AI-Powered CCTV Analytics & Operational Intelligence Platform
+
+- Employee Tracking
+- Behavioral Analytics
+- Camera Health Monitoring
+- Dwell Time Analysis
+- Automated Reports
+- Operational Insights
+
+---
+
+### AI Business Automation Suite
+
+Custom AI systems designed to improve efficiency.
+
+- AI Copilots
+- Workflow Automation
+- Intelligent Dashboards
+- Knowledge Systems
+- Business Analytics
+- Document Intelligence
+
+---
+
+### Digital Infrastructure
+
+Building software that powers organizations.
+
+- Internal Portals
+- CRM Systems
+- Business Dashboards
+- Commerce Platforms
+- Operational Platforms
+- Enterprise Web Applications
+
+---
+
+# 💻 Technology Arsenal
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,c,cpp,java,php,mysql,bash" />
+</p>
+
+---
+
+### Frontend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,flutter" />
+</p>
+
+---
+
+### Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,flask" />
+</p>
+
+---
+
+### AI & Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+**Specializations**
+
+- Large Language Models
+- AI Agents
+- Computer Vision
+- OCR Systems
+- Document Intelligence
+- Workflow Automation
+- Business Intelligence
+- Retrieval Systems
+- Operational Analytics
+- Multi-Agent Architectures
+
+---
+
+### Infrastructure & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare,nginx" />
+</p>
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+</p>
+
+---
+
+### Product & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
+
+---
+
+# 🏗️ Flagship Projects
+
+## 🛰️ Project MONOLITH
+
+AI-Powered CCTV Analytics Platform focused on operational intelligence and workforce visibility.
+
+---
+
+## 🏢 Aperture Technologies
+
+AI automation, software development, and digital transformation solutions for modern businesses.
+
+---
+
+## 🤖 AI Business Systems
+
+Custom copilots, workflow engines, analytics platforms, and automation systems.
+
+---
+
+## 📄 Intelligent Document Processing
+
+OCR, NLP, extraction, classification, and automated document workflows.
+
+---
+
+## 🌐 Digital Experience Platforms
+
+Modern web experiences, business websites, internal systems, and commerce platforms.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Objectives
+
+- Scale Aperture Technologies
+- Build Production AI Systems
+- Expand Business Automation Offerings
+- Develop Enterprise Software Solutions
+- Create Long-Term Value Through Technology
+- Work With Ambitious Organizations
+
+---
+
+# 🧠 Areas of Interest
+
+<table>
+<tr>
+<td>Artificial Intelligence</td>
+<td>Computer Vision</td>
+<td>Automation Systems</td>
+</tr>
+
+<tr>
+<td>Business Intelligence</td>
+<td>Product Strategy</td>
+<td>System Design</td>
+</tr>
+
+<tr>
+<td>SaaS Platforms</td>
+<td>Entrepreneurship</td>
+<td>Digital Transformation</td>
+</tr>
+</table>
+
+---
+
+# 📚 Philosophy
+
+> Build relentlessly.
+>
+> Learn continuously.
+>
+> Execute consistently.
+>
+> Improve endlessly.
+
+Ideas are abundant.
+
+Execution creates value.
+
+---
+
+# 🌍 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://aperturewebs.co.in">
+<img src="https://img.shields.io/badge/Aperture%20Technologies-000000?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  
+
+### Founder • Builder • Engineer
+
+*"Building systems that create leverage."*
 
 </div>
