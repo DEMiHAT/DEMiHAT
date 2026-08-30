@@ -1,10 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SANJEEV%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CTO%20—%20Aperture%20Intelligence&descAlignY=58&descSize=20" width="100%"/>
+
 <div align="center">
 
-# Sanjeev S
-### `Founder & CEO — Aperture Intelligence`
-### `// architecting systems in controlled chaos.`
-
-**Designing autonomous systems where structure, data flow, and scalability coexist in controlled architectural chaos.**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Architecting+autonomous+systems...;Designing+for+scale%2C+not+just+demos.;Founder+%7C+CTO+%7C+Systems+Architect;Controlled+architectural+chaos.)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/DEMiHAT?label=Follow&style=social)](https://github.com/DEMiHAT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeev-sriram-9974b5332)
@@ -84,6 +82,14 @@ GitHub:           github.com/DEMiHAT
 </tr>
 </table>
 
+<div align="center">
+
+### `$ skillicons --list`
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,nodejs,fastapi,postgres,redis,docker,aws,git,github,linux,figma&theme=dark&perline=8" />
+
+</div>
+
 ---
 
 ### `$ cat leadership.md`
@@ -145,3 +151,5 @@ End-to-end accountability — from architecture decisions and code review to inf
 *"Think deeply. Build relentlessly. Ship intelligently."* — Aperture Intelligence
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
