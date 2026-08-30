@@ -1,13 +1,17 @@
 <div align="center">
 
-# Sanjeev
-### `// build. break. iterate. elevate.`
+# Sanjeev S
+### `Founder & CEO — Aperture Intelligence`
+### `// architecting systems in controlled chaos.`
 
-**Currently building the future @ Aperture Intelligence — engineering systems, solving real problems.**
+**Designing autonomous systems where structure, data flow, and scalability coexist in controlled architectural chaos.**
 
 [![GitHub followers](https://img.shields.io/github/followers/DEMiHAT?label=Follow&style=social)](https://github.com/DEMiHAT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeev-sriram-9974b5332)
+[![Kaggle](https://img.shields.io/badge/Kaggle-competitions-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjeevsriram06/competitions)
+[![LeetCode](https://img.shields.io/badge/LeetCode-profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sanjeev_here/)
 
-📍 India &nbsp;·&nbsp; 🏢 [Aperture Intelligence](https://apertureintel.com) &nbsp;·&nbsp; ✉️ sanjeev@apertureintel.com &nbsp;·&nbsp; 🔗 [linkedin.com/in/sanjeev-01](https://linkedin.com)
+📍 India &nbsp;·&nbsp; 🏢 [Aperture Intelligence](https://apertureintel.com) &nbsp;·&nbsp; ✉️ sanjeev@apertureintel.com
 
 </div>
 
@@ -19,79 +23,103 @@ sanjeev@sanjeev-01:~$ neofetch
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="38%" valign="top">
 
 ```
-                           :r*s7{)2wN&WXGUq5a3TfZ7e]]aYt(/=.
-                       .cTxm$h7,T]]kN@%pKWD5AGYapC3]Swqqw2a1CJ=`
-                    .!odAPSUM#T}bg[yBQ#Z4Rg6mXVZWWhKAhSkkSwyY9yu(<
-                  >itaQ%AppUmV{B#5YyN&AL)c*z)F7v3EoZoxxX$8OPjqk2]2[?.
-                +YKaSYdWD9p8UYkR6YjORUf<L_   `-'_ .TL,v6QMK9pAUy2ShwYT`
-              :e8m9[5Gp%gP]99Z9ql(I{!:':;_:...  ``` `'.ceZ]OY8$kmN8OEVY>
-             *9Wmdq4[xgRwxwEZ7v*,`    `    ` .-``  ` `  ^cvIJ4UEDW0qJS8Y{_
-            J9BBPkdWay$h2Y{)/=.                 `    `  .,:::z7)yVKBCL4]hAs
-          .ldK%#Eya2jVHxCLc^`                     `      -   c|s}25gmu3}UNML
-         `l9UBgBw]SaUKd)>:                                   '!csY]h%033XBWP<
-         {V]K@WBKeP]h$43+``.                                  '>c25nbQ]yhK$bC=
-        ?P2jA@0$UYwSt11s,;!c+,=                                `-stjSK4e2yA9u}_
-       -wSe2N@gb2xI?*rnD9Jv{ZJLT`        `-'__,,^,^_.          `.>75]U4j[[XO53|
-       LUa2$@$AVPI***rl8bsz|evsi_     .'^=^=><+!rcc!>_-.      .,<??Ch0Uyu|XRj}[!
-       e4]N0#8hZwvz*!!ss!>r??^Lc'   -^><<+<<<csJ|F(s!<=='     'rr>;uEVDhLspBSCII
-      .a]P0QNbho7*cr+L*^,<+!^=r'  :>====^_'''_=zCnnCTz!<^- :  `_,,iSaj9kssp0he3Z
-      'xnAWNXdk$v!r<<*<_,=;=:+, ->!/v7vc^` `_>^:``:r(i)c<' -)/s3nfEY]5wKichMDwIl
-      ,5Z$Wm]S9@Zr<cc!,'::_'^,``cTLs)}uotT.+*' .__:`'?7)?:,sY5]4hwoEkhYm5*SQHquf
-      'lkRQRwaqbwZi____:-..''  _/LLvv{uEb)f[(z^ '=+^ -^,_?un]46E4RoS2ExOSvImD9]t
-      `fp0BKYSxY6SwtL:_^-..`   _!/sT7||31r66kExeu{/__   =tn[]aGEG0dpj[xEOC(wm9Ol
-       FKMmkwVk1AAyqP4}=:-`   `-,^</LLLTs<TC1ICiv,+j6<;c(t](!xdEhBXD&8eZR1v1AdG[
-       +]4hPdxUaahddw#XJr_ `....`'>c/??//!=^^^;vJuPW@ZZy]q7ruV6ht4DZ9Gnk8e|COK6{
-        )CF|I[]Zad98p8xz<` `....'=>=!zsLTT?*sL=z(f1xhxVV]||xaBBXVRNhx315AP}}]mx'
-        >}I3}7vilnkKhSJc+. .'':',;^;*T)vJT?vi{*-` :z732}}u2YEy4&dYRDw5a]96i(}Xv
-         +T)JJL!<<LI6qLr+-` '_.-:^>!!c*z+''--''_^>:`TUQn5oq8ykGVG26DxoaePhFJ7I`
-          cL/(3/=++/L|ccc;`  .``..',><>'`=zs*c!;^!c_eU0W#Vm@k9hbD]kUxY}2aG3{T.
-          .t#$DGaI|)z+++rr^        ...`.;*Ts=,>>++>}MWO8@@@@8hhq9q]9SnnaUmZ7.
-           `n%@@&4i>'=><!cc>'          .,^!/='` ->n4A8%DN@@@@@QD9ayPb{uonm}`
-             LA@@@&pi^:^<r*/r>,-         `.'__''^t2wqqGQQ&&@@&&MdkjqHt3et|`
-              'ng@@@@Uf;_;<++!+>^'.`        ```.=E#VYPG#&%%@@@@&&KOhdDSz_
-                <]M@@@@mn!_=><=,_'-`  .-````   <y$B&WAAmM@@@@@@@@@@0MpJ`
-                  <ZD@@@@$2T^,=;,:. .*(Jz/*sI{+y@@@@@QRh4M@@@@@@&@MkL
-                    _i6g@@@QV3c^_-_?1etC(([]OS|d@@&gB#W%pd$@@@%WO1>
-                       ^F2XQ@@g2){yEa5oZ32M%891p@&NmH8ApUOX#8ki+  !(,`
-                          `+|Z98DDAOhwOAd&@@@$wA@@gg89ww5I|+-   ``3V*`
-                               .=/7F{5yxhAKKKAPa6SYf*+^.
+              =iZ)LoV&D8pqex1jSyui*=
+           =Cd6Ogtkqk@qEqwS2Gk6kphy]l)^
+         v]x6WbGVPGZ66L>.-:,>/*}8K9UP9q1>
+       ^E8V]6Dq2e{z=_ ``` `     ci3h6gHeh|:
+      /PN6w6Vw}/,               `.`z7aA]nPA+
+     zk$Nd]6XC'                    '+1]BaqMS:
+    =]2N0dxt1[//?>.      ``..`       c[hdYhh{'
+    tqANbE)rzdfTfT!  `'^^;+c*!,-`   _<J9KtxAtJ
+   .x4%RwCc!/>=!>+-.^>;^_,<T}|?!, ``;<3]VftDot
+   'nXBPKn<++:_,,-,/si}L';-`',zv!'J1jyyEqy}0P3
+   .oBmawq[*_:... +LvFou[o|z/,`-;IY6PXk2yPiOOY
+    uDdkE6hww?'  `:;/LL*Tiiiv]nzInJEqGAXy4foU]
+    >tt[5a4Up): ---=<zLT*zr*|yEwY}ZAAVXjnd5IGJ
+     *7vz*|aer, '-'^</z!>!<'_:nVnS6kHkA]YSx7}.
+     `vqw}?//!+-   `'_'^s!>;>vH$00$9V6Pa[66T`
+      -ZQ@9J,^rr^-     ';=-.)qGDQ@@%DS2qt5l.
+        *h@@Vi>=<<,-       =PX6AQ&@@&BKm5=
+          ?wN@8o/^:.-*Tc*i?q&&W8AQ@@@N67-
+            ^iw8Dh}fYxZeKDxm@gR8OGXw}+z:
+               .!injxaPU0BVpAkuFs<.   v=
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
 ```
 sanjeev@sanjeev-01
-────────────────────────────────────
+────────────────────────────────────────────────
 OS:            Linux
 Host:          Aperture Workstation
-Role:          Founder / Builder
+Role:          Founder & CTO
 Organization:  Aperture Intelligence
 Shell:         zsh
 Terminal:      alacritty
 
-Languages:     Python · JavaScript · TypeScript
-               C++ · SQL
-Stack:         React · Node.js · FastAPI
-               PostgreSQL · Docker
+Languages:     Python · JavaScript · TypeScript · C++ · SQL
+Backend:       FastAPI · Node.js · REST · gRPC
+Frontend:      React · Next.js · Tailwind
+Data/Infra:    PostgreSQL · Redis · Docker · AWS
+AI/ML:         LLM orchestration · RAG · Agentic systems
 
-Focus:         AI · Automation · SaaS
-               Systems Architecture
+Focus:         AI Automation · SaaS Architecture
+               Distributed Systems · Technical Leadership
 
 Contact
-────────────────────────────────────
+────────────────────────────────────────────────
 Email (Work):     sanjeev@apertureintel.com
 Website:          apertureintel.com
-LinkedIn:         linkedin.com/in/sanjeev-01
+LinkedIn:         linkedin.com/in/sanjeev-sriram
+Kaggle:           kaggle.com/sanjeevsriram06
+LeetCode:         leetcode.com/u/sanjeev_here
 GitHub:           github.com/DEMiHAT
 ```
 
 </td>
 </tr>
 </table>
+
+---
+
+### `$ cat leadership.md`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🏗️ Systems Thinking**
+Design architecture before writing code. Every service ships with scale, failure modes, and cost in mind — not just "does it work."
+
+</td>
+<td width="33%" valign="top">
+
+**⚡ Execution Speed**
+Bias toward shipping. Prototype fast, validate with real users, harden what survives contact with production.
+
+</td>
+<td width="33%" valign="top">
+
+**🧭 Technical Ownership**
+End-to-end accountability — from architecture decisions and code review to infra costs and client delivery timelines.
+
+</td>
+</tr>
+</table>
+
+---
+
+### `$ ls ./organizations`
+
+<div align="center">
+
+<a href="https://apertureintel.com"><img src="https://img.shields.io/badge/Aperture_Intelligence-Founder_%26_CTO-black?style=for-the-badge" /></a>
+
+</div>
 
 ---
 
@@ -103,6 +131,8 @@ GitHub:           github.com/DEMiHAT
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMiHAT&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEMiHAT&theme=radical&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=DEMiHAT&theme=radical&no-frame=true&row=1&column=6" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEMiHAT&theme=redical&hide_border=true" width="95%"/>
 
